@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>계산기 만들기</title>
+    <style>
+        input[type="text"] {
+            width: 260px;
+            height: 20px;
+            text-align: left;
+            font-size: 12px;
+            box-sizing: border-box;
+        }
+        input[type="button"] {
+            width: 50px;
+            height: 20px;
+            margin: 0 5px;
+            font-size: 12px;
+            box-sizing: border-box;
+        }
+    </style>
+    <script>
+        let exp;
+
+        document.addEventListener('DOMContentLoaded', () => {
+            exp = document.getElementById('exp');
+        });
+
+        function append(obj) {
+            if (exp.value === '0') {
+                exp.value = obj;
+            } else {
+                exp.value += obj;
+            }
+}
+
+        function calculate() {
+            try {
+                exp.value = eval(exp.value) || '0';
+            } catch {
+                exp.value = 'Error';
+            }
+        }
+
+        function backspace() {
+            exp.value = exp.value.slice(0, -1) || '0';
+        }
+
+        function reset() {
+            exp.value = '0';
+        }
+    </script>
+</head>
+<body>
+    <h3>계산기 만들기</h3>
+    <hr>
+    <form>
+        <input type="text" id = "exp" value="0">
+        <br>
+        <input type="button" value="BACK" onclick="backspace()"> 
+        <input type="button" value="CE" onclick="reset()"> 
+        <input type="button" value="C" onclick="reset()"> 
+        <input type="button"  value="=" onclick="calculate()">
+        <br>
+        <input type="button" value="7" onclick="append('7')">
+        <input type="button" value="8" onclick="append('8')">
+        <input type="button" value="9" onclick="append('9')">
+        <input type="button" value="/" onclick="append('/')">
+        <br>
+        <input type="button" value="4" onclick="append('4')">
+        <input type="button" value="5" onclick="append('5')">
+        <input type="button" value="6" onclick="append('6')">
+        <input type="button" value="*" onclick="append('*')">
+        <br>
+        <input type="button" value="1" onclick="append('1')">
+        <input type="button" value="2" onclick="append('2')">
+        <input type="button" value="3" onclick="append('3')">
+        <input type="button" value="-" onclick="append('-')">
+        <br>
+        <input type="button" value="0" onclick="append('0')">
+        <input type="button" value="+" onclick="append('+')">
+        <input type="button" value="NONE">
+        <input type="button" value="NONE">
+    </form>
+</body>
+</html>
