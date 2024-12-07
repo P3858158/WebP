@@ -20,14 +20,14 @@
 
 ## Week 5
 - **실습문제**
-  - [prac8-4.html](prac8-4.html): 실습문제 8-4
-  - [prac8-6.html](prac8-6.html): 실습문제 8-6
+  - [practice8-4.html](practice8-4.html): 실습문제 8-4
+  - [practice8-6.html](practice8-6.html): 실습문제 8-6
 
 ## Week 6
 - **실습문제**
-  - [pract9-2.html](pract9-2.html): 실습문제 9-2 (라디오버튼 선택된 것 알아내서 그림 그리기)
-  - [pract9-3.html](pract9-3.html): 실습문제 9-3 (Enter 키가 입력되었을 때 수식의 값을 계산하기)
+  - [practice9-2.html](practice9-2.html): 실습문제 9-2 (라디오버튼 선택된 것 알아내서 그림 그리기)
+  - [practice9-3.html](practice9-3.html): 실습문제 9-3 (Enter 키가 입력되었을 때 수식의 값을 계산하기)
 
 ## Week 7
 - **실습문제**
-  - [prac10-5.html](prac10-5.html): 실습문제 10-5와 10-6을 포함 (SetTimeout, SetInterval 이용 시계 보이기)
+  - [practice10-5.html](practice10-5.html): 실습문제 10-5와 10-6을 포함 (SetTimeout, SetInterval 이용 시계 보이기)
