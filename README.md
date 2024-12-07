@@ -1,4 +1,4 @@
-# 학습 자료
+# Web Programming 실습자료 모음
 
 ## Week 1
 - **1주차 연습**
