@@ -86,3 +86,6 @@
 
 언젠지 모르겠음 : 
 multiply.js
+
+과제1 : [8-10.html](8-10.html)
+과제2 : [practice9-6.html](practice9-6.html), [practice9-10.html](practice9-10.html)
