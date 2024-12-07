@@ -15,11 +15,10 @@
 ## Week 3
 - **3주차 연습**
   - CSS3 스타일 공부
-- **객체 생성 3가지 방법 연습**
-  - [obj-gen.html](obj-gen.html)
 
 ## Week 4
-- **실습문제**
+- **객체 생성 3가지 방법 연습**
+  - [obj-gen.html](obj-gen.html)
     
 ## Week 5
 - **실습문제**
@@ -36,13 +35,17 @@
   - [practice10-5.html](practice10-5.html): 실습문제 10-5와 10-6을 포함 (SetTimeout, SetInterval 이용 시계 보이기)
  
 ## Week 8
-- **중간고**
+- **중간고사**
  
 ## Week 9
 - **실습문제**
+  - [ex12-1.html](ex12-1.html)
 
 ## Week 10
 - **실습문제**
+  - [ex13-9.html](ex13-9.html)
+  - [ex13-10.html](ex13-10.html)
+  - [timer.js](timer.js)
 
 ## Week 11
 - **실습문제**
