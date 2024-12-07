@@ -52,7 +52,6 @@
 
 ## Week 10
 - **오디오, 비디오 제어, 웹워커**
-  - [ex13-6.html](week10/ex13-6.html)
   - [ex13-9.html](week10/ex13-9.html)
   - [ex13-10.html](week10/ex13-10.html)
   - [timer.js](week10/timer.js)
