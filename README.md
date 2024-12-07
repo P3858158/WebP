@@ -55,6 +55,7 @@
   - [ex13-9.html](week10/ex13-9.html)
   - [ex13-10.html](week10/ex13-10.html)
   - [timer.js](week10/timer.js)
+  - [multiply.js](week10/multiply.js)
 
 ## Week 11
 - **JavaScript1**
@@ -83,9 +84,7 @@
   - [package-lock.json](week14/package-lock.json)
   - [login1.html](week14/login1.html)
 
-
-언젠지 모르겠음 : 
-multiply.js
+<br>
 
 과제1 : [8-10.html](week5/8-10.html)
 과제2 : [practice9-6.html](week6/practice9-6.html), [practice9-10.html](week6/practice9-10.html)
