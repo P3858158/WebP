@@ -18,6 +18,9 @@
 - **객체 생성 3가지 방법 연습**
   - [obj-gen.html](obj-gen.html)
 
+## Week 4
+- **실습문제**
+    
 ## Week 5
 - **실습문제**
   - [practice8-4.html](practice8-4.html): 실습문제 8-4
@@ -31,6 +34,15 @@
 ## Week 7
 - **실습문제**
   - [practice10-5.html](practice10-5.html): 실습문제 10-5와 10-6을 포함 (SetTimeout, SetInterval 이용 시계 보이기)
+ 
+## Week 8
+- **중간고**
+ 
+## Week 9
+- **실습문제**
+
+## Week 10
+- **실습문제**
 
 ## Week 11
 - **실습문제**
