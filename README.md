@@ -42,7 +42,7 @@
   - [prac10-5.html](prac10-5.html): 실습문제 10-5와 10-6을 포함 (SetTimeout, SetInterval 이용 시계 보이기)
  
 ## Week 8
-- **중간고사**
+ **중간고사**
  
 ## Week 9
 - **실습문제**
