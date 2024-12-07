@@ -16,7 +16,7 @@
 - **3주차 연습**
   - CSS3 스타일 공부
 - **객체 생성 3가지 방법 연습**
-  - [object-gen.html](object-gen.html)
+  - [obj-gen.html](obj-gen.html)
 
 ## Week 5
 - **실습문제**
