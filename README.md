@@ -41,6 +41,6 @@
   - [app4.js](app4.js)
   - [app7.js](app7.js)
   - [app8.js](app8.js)
-  - [pakage.json](pakage.json)
-  - [pakage-lock.json](pakage-lock.json)
+  - [package.json](package.json)
+  - [package-lock.json](package-lock.json)
   - [login1.html](login1.html)
