@@ -25,12 +25,14 @@
   - [practice8-4.html](practice8-4.html): 실습문제 8-4
   - [practice8-6.html](practice8-6.html): 실습문제 8-6
   - [practice8-9.html](practice8-9.html)
+- **과제1**
   - [8-10.html](8-10.html)
 
 ## Week 6
 - **실습문제**
   - [9-2.html](9-2.html): 실습문제 9-2 (라디오버튼 선택된 것 알아내서 그림 그리기)
   - [week6-prac2.html](week6-prac2.html): 실습문제 9-3 (Enter 키가 입력되었을 때 수식의 값을 계산하기)
+- **과제2**
   - [practice9-6.html](practice9-6.html)
   - [practice9-10.html](practice9-10.html)
 
