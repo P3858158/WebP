@@ -24,22 +24,29 @@
 - **실습문제**
   - [practice8-4.html](practice8-4.html): 실습문제 8-4
   - [practice8-6.html](practice8-6.html): 실습문제 8-6
+  - [practice8-9.html](practice8-9.html)
+  - [8-10.html](8-10.html)
 
 ## Week 6
 - **실습문제**
-  - [practice9-2.html](practice9-2.html): 실습문제 9-2 (라디오버튼 선택된 것 알아내서 그림 그리기)
-  - [practice9-3.html](practice9-3.html): 실습문제 9-3 (Enter 키가 입력되었을 때 수식의 값을 계산하기)
+  - [9-2.html](9-2.html): 실습문제 9-2 (라디오버튼 선택된 것 알아내서 그림 그리기)
+  - [week6-prac2.html](week6-prac2.html): 실습문제 9-3 (Enter 키가 입력되었을 때 수식의 값을 계산하기)
+  - [practice9-6.html](practice9-6.html)
+  - [practice9-10.html](practice9-10.html)
 
 ## Week 7
 - **실습문제**
-  - [practice10-5.html](practice10-5.html): 실습문제 10-5와 10-6을 포함 (SetTimeout, SetInterval 이용 시계 보이기)
+  - [ex10-4.html](ex10-4.html)
+  - [prac10-5.html](prac10-5.html): 실습문제 10-5와 10-6을 포함 (SetTimeout, SetInterval 이용 시계 보이기)
  
 ## Week 8
 - **중간고사**
  
 ## Week 9
 - **실습문제**
+  - [index.html](index.html)
   - [ex12-1.html](ex12-1.html)
+  
 
 ## Week 10
 - **실습문제**
@@ -73,3 +80,7 @@
   - [package.json](package.json)
   - [package-lock.json](package-lock.json)
   - [login1.html](login1.html)
+
+
+언젠지 모르겠음 : 
+multiply.js
