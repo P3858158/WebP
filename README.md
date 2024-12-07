@@ -32,6 +32,20 @@
 - **실습문제**
   - [practice10-5.html](practice10-5.html): 실습문제 10-5와 10-6을 포함 (SetTimeout, SetInterval 이용 시계 보이기)
 
+## Week 11
+- **실습문제**
+  - [dg.js](dg.js)
+  - [dg.html](dg.html)
+  
+## Week 12
+- **실습문제**
+  - [funcPr-practice.js](funcPr-practice.js)
+
+## Week 13
+- **실습문제**
+  - [webserver1.js](webserver1.js)
+  - [webserver2.js](webserver2.js)
+  - [week3.html](week3.html)
 
 ## Week 14
 - **실습문제**
