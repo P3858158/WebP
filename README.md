@@ -45,34 +45,34 @@
  **중간고사**
  
 ## Week 9
-- **실습문제**
+- **웹스토리지**
   - [index.html](index.html)
   - [ex12-1.html](ex12-1.html)
   
 
 ## Week 10
-- **실습문제**
+- **오디오, 비디오 제어, 웹워커**
   - [ex13-9.html](ex13-9.html)
   - [ex13-10.html](ex13-10.html)
   - [timer.js](timer.js)
 
 ## Week 11
-- **실습문제**
+- **JavaScript1**
   - [dg.js](dg.js)
   - [dg.html](dg.html)
   
 ## Week 12
-- **실습문제**
+- **JavaScript2**
   - [funcPr-practice.js](funcPr-practice.js)
 
 ## Week 13
-- **실습문제**
+- **Node.js**
   - [webserver1.js](webserver1.js)
   - [webserver2.js](webserver2.js)
   - [week3.html](week3.html)
 
 ## Week 14
-- **실습문제**
+- **Express.js**
   - [app.js](app.js)
   - [app1.js](app1.js)
   - [app3.js](app3.js)
